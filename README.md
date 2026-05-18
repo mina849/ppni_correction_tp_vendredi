@@ -1,6 +1,5 @@
 # ppni_correction_tp_vendredi
 correction du Tp sur le premier  dépot distant des PPNI 2026
-
 ________________________________________________________________________
 # 👋 Bonjour, je suis Liticia !
 ## Qui suis-je ? Je m'appelle Liticia. 
